@@ -12,5 +12,4 @@
 Due to size constraints, the fine-tuned model weights are not included in this repository.
 
 To reproduce results:
-- Run the training notebook `adani_ai.ipynb`, or
-- Request the model artifacts from the author
+- Run the training notebook `adani_ai.ipynb`, after install all required libraries mentioned in requirements.txt
